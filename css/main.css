@@ -1,0 +1,45 @@
+html {
+  font-family: Merriweather, serif;
+  line-height: 1.5;
+}
+
+td {
+  height: 9.8rem;
+}
+
+table,
+td,
+th {
+  border: solid 1px #ccc;
+}
+
+.grey {
+  border: solid 1px #666;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.red {
+  border: solid 1px #b92828;
+  background-color: #f2bcbc;
+  color: #991919;
+}
+
+.blue {
+  border: solid 1px #1d38da;
+  background-color: #d2d6f0;
+  color: #38448e;
+}
+
+.green {
+  border: solid 1px #6b7e54;
+  background-color: #d1e0bf;
+  color: #51603f;
+}
+
+.grey,
+.red,
+.blue,
+.green {
+  border-radius: 8px;
+}
